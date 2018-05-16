@@ -1,4 +1,4 @@
-import { usedByBoth } from './chunk1.js';
+import usedByBoth from './chunk1.js';
 
 var usedByB = {
 	color: 'darkslateblue',
